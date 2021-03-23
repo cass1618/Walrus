@@ -2,6 +2,10 @@
   display: none;
 }
 
+.walrus-hidden {
+  display: "walrus1.jpg";
+}
+
 .clickable {
   cursor: pointer;
   color: #0088cc;
